@@ -26,6 +26,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    //Here are some comments for changes and whatnot
     
     @IBAction func sendMailButtonPressed(sender: UIButton) {
         messageLabel.hidden = false
